@@ -1,3 +1,6 @@
-vless://e129f27c-5103-5c5c-844b-cdf0a15e160d@127.0.0.1:1080?encryption=none&security=none&type=tcp#%D0%A1%D0%9A%D0%9E%D0%A0%D0%9E%20/%20SOON
-vless://e129f27c-5103-5c5c-844b-cdf0a15e160d@127.0.0.1:1080?encryption=none&security=none&type=tcp#%D0%A1%D0%9A%D0%9E%D0%A0%D0%9E%20/%20SOON
-vless://e129f27c-5103-5c5c-844b-cdf0a15e160d@127.0.0.1:1080?encryption=none&security=none&type=tcp#%D0%A1%D0%9A%D0%9E%D0%A0%D0%9E%20/%20SOON
+trojan://PptM0dXB5KzvNAf08z9ne59Ks7WxhXRy@5.188.143.107:7443?alpn=h2%2Chttp%2F1.1&sni=plone.rushtaxi.ru#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%231
+trojan://PptM0dXB5KzvNAf08z9ne59Ks7WxhXRy@5.188.143.99:7443?alpn=h2%2Chttp%2F1.1&sni=plthree.rushtaxi.ru#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%232
+trojan://PptM0dXB5KzvNAf08z9ne59Ks7WxhXRy@5.188.143.53:7443?alpn=h2%2Chttp%2F1.1&sni=pltwo.rushtaxi.ru#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%233
+trojan://PptM0dXB5KzvNAf08z9ne59Ks7WxhXRy@89.208.228.164:7443?alpn=h2%2Chttp%2F1.1&sni=gotraf.nodesecure.ru#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%231
+trojan://PptM0dXB5KzvNAf08z9ne59Ks7WxhXRy@109.120.188.26:7443?alpn=h2%2Chttp%2F1.1&sni=gotraf.nodesecure.ru#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%232
+vless://a628222a-f33e-431c-8dbf-9aa0084403c9@51.250.40.245:8090?encryption=none&fp=chrome&mode=auto&path=%2F&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&sid=6b2f4e6ac9b1d2f0&sni=sso.passport.yandex.ru&type=xhttp#%F0%9F%87%AA%F0%9F%87%AA%20%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F%20%231
